@@ -1,22 +1,4 @@
-h1, h2 {
-	font-family: verdana;
-	color: white;
-	text-align: center;
-	text-shadow:
-	font-size: 500%;
-}
-
-h3 {
-	text-align: center;
-}
-
-h4 {
-	text-indent: 400px;
-	color: white;
-	font-family: verdana;
-}
-
 body {
-/*	background-image: url("bg.jpg");*/
+	background-image: url("bg.jpg");
 	background-size: 100%;
 }
